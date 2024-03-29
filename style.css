@@ -1,0 +1,13 @@
+body {background-color: palegreen; } 
+h2 { 
+  font-size: 25px;
+  font-family: sans-serif;  
+  color: black;
+  background-color: black;
+  width: 60%;
+  
+}
+.heading {
+width: 60%;
+font-size: 35px;
+}
